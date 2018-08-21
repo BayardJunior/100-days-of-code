@@ -6,7 +6,7 @@
 
 <!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
 
-### Dia 1: 20 de agosto, 2019 (Exemplo 2)
+### Dia 1: 20 de agosto, 2018
 
 **Progresso do dia:** Hoje eu estudei sobre Classes, Objetos, Referencias e resolvi os exercicios da SoftBlue.
 
@@ -14,7 +14,7 @@
 
 <!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
 
-### Day 2: 21 de agosto, 2019 (Exemplo 2)
+### Day 2: 21 de agosto, 2018
 
 **Progresso do dia:** Hoje foi de dia de estudar Modificadores de Acesso, Construtores, Elementos Estaticos, Herança e Polimorfismo.
 
