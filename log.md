@@ -1,29 +1,23 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 0: 19 de agosto, 2018
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Configuração do pc.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+<!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+### Dia 1: 20 de agosto, 2019 (Exemplo 2)
 
-### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
-##### (me delete ou transforme em comentário)
+**Progresso do dia:** Hoje eu estudei sobre Classes, Objetos, Referencias e resolvi os exercicios da SoftBlue.
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Aprendizados:** Nada melhor do que reforçar a base e rever os conceitos pra deixar cada vez mais fixos na memoria.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+<!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+### Day 2: 21 de agosto, 2019 (Exemplo 2)
 
-### Day 2: 1 de março, 2016 (Exemplo 2)
+**Progresso do dia:** Hoje foi de dia de estudar Modificadores de Acesso, Construtores, Elementos Estaticos, Herança e Polimorfismo.
 
-**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
+**Aprendizados:** ...
 
-**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
-
-**Link(s) do(s) trabalho(s)**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<!--**Link(s) do(s) trabalho(s)**-->
